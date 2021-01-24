@@ -8,6 +8,7 @@ namespace ClassMetotDemo
     {
         public void Listele()
         {
+
             Console.WriteLine("\n\nMüşteriler Listelendi...");
         }
 
