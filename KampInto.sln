@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{8E1514C7-EA71-4032-8E10-A82251FF9A3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{C5C8E97E-E3BB-402E-9E93-C9802C6EEBDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{C5C8E97E-E3BB-402E-9E93-C9802C6EEBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSimulationProject", "GameSimulationProject\GameSimulationProject.csproj", "{F8B21D51-B950-4265-A28D-6323A28B670C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C5C8E97E-E3BB-402E-9E93-C9802C6EEBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5C8E97E-E3BB-402E-9E93-C9802C6EEBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5C8E97E-E3BB-402E-9E93-C9802C6EEBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B21D51-B950-4265-A28D-6323A28B670C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B21D51-B950-4265-A28D-6323A28B670C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B21D51-B950-4265-A28D-6323A28B670C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B21D51-B950-4265-A28D-6323A28B670C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
